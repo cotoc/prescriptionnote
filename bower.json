@@ -1,0 +1,25 @@
+{
+  "name": "prescriptionnote",
+  "authors": [],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0"
+  },
+  "devDependencies": {
+    "angular": "^1.6.0",
+    "onsenui": "^2.0.4",
+    "angular-ui-calendar": "^1.0.2",
+    "hammerjs": "hammer.js#^2.0.8"
+  }
+}

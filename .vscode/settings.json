@@ -1,0 +1,9 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+    "editor.trimAutoWhitespace": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "javascript.validate.enable": false,
+		"jshint.enable": true,
+		"html.format.extraLiners": "head, body, /html"
+	}

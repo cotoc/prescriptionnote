@@ -1,0 +1,19 @@
+{
+  "name": "prescriptionnote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.0",
+    "angular2": "^2.0.0-beta.21",
+    "jshint": "^2.9.4"
+  },
+  "dependencies": {
+    "jshint": "^2.9.4"
+  }
+}
